@@ -6,5 +6,12 @@
     "overtype.perEditor": true,
     "gitdoc.ai.enabled": true,
     "gitdoc.ai.useEmojis": true,
-    "gitdoc.noVerify": false
+    "gitdoc.noVerify": false,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "chat.customAgentInSubagent.enabled": true,
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "git.allowForcePush": true,
+    "git.showPushSuccessNotification": true,
+    "git.useCommitInputAsStashMessage": true
 }
