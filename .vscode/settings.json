@@ -1,0 +1,10 @@
+{
+    "autogitcommit.enable": true,
+    "gitdoc.enabled": true,
+    "overtype.abbreviatedStatus": true,
+    "overtype.paste": true,
+    "overtype.perEditor": true,
+    "gitdoc.ai.enabled": true,
+    "gitdoc.ai.useEmojis": true,
+    "gitdoc.noVerify": false
+}
